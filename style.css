@@ -1,0 +1,19 @@
+.main-header{
+    background-color: rgba(220, 20, 60, 0.582);
+}
+
+.body-header{
+    background-color: rgba(201, 226, 131, 0.548);
+}
+
+.body-meat{
+    background-color: rgba(128, 128, 128, 0.26);
+}
+
+.shrink{
+    height: auto;
+    width: 400px;
+}
+.align{
+    text-align: center; 
+}
